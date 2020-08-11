@@ -1,6 +1,6 @@
 ## Hi devs <img src="https://github.com/Yeroshenko/Yeroshenko/blob/master/Hi.gif" width="29px"> . I'm Valeriy, frontend developer.
 
-<img src="https://gpvc.arturio.dev/Yeroshenko" alt="profile views">  [![Visits Badge](https://badges.pufler.dev/visits/Yeroshenko/Yeroshenko)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+<img src="https://gpvc.arturio.dev/Yeroshenko" alt="profile views">  
 
 ### Connect with me:
 
