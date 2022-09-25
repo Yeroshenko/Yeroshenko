@@ -4,10 +4,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="22px" src="./assets/web-site.svg" />][website]
-[<img align="left" alt="linkedin" width="22px" src="./assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram" width="22px" src="./assets/instagram.svg" />][instagram]
-[<img align="left" alt="telegram" width="22px" src="./assets/telegram.svg" />][telegram]
+[<img align="left" alt="website" width="40px" height="40px" src="./assets/web-site.svg" />][website]
+[<img align="left" alt="linkedin" width="40px" height="40px" src="./assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram" width="40px" height="40px" src="./assets/instagram.svg" />][instagram]
+[<img align="left" alt="telegram" width="40px" height="40px" src="./assets/telegram.svg" />][telegram]
 
 [website]: https://valeriy-yeroshenko.web.app
 [linkedin]: https://www.linkedin.com/in/yeroshenko/
