@@ -1,7 +1,5 @@
 ## Hi devs <img src="./assets/Hi.gif" width="29px"> . I'm Valeriy, frontend developer.
 
-<img src="https://gpvc.arturio.dev/Yeroshenko" alt="profile views">
-
 ### Connect with me:
 
 [<img align="left" alt="website" width="40px" height="40px" src="./assets/web-site.svg" />][website]
